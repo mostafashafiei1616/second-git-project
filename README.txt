@@ -1,1 +1,1 @@
-This is main file.
+This is conflict-test version.
